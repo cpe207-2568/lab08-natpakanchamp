@@ -10,7 +10,7 @@ export function TaskInput(){
                     placeholder="Insert a task here.."
                   ></input>
                 </div>
-                <div className="col-2">
+                <div className="col-2 d-flex justify-content-center align-self-end">
                   <button className="btn btn-primary">Add</button>
                 </div>
               </form>
